@@ -25,3 +25,5 @@ This project requires the following Arduino libraries to compile:
 3. I2Cdev.h
 4. MPU6050_6Axis_MotionApps20.h
 5. Wire.h
+<img width="415" height="596" alt="image" src="https://github.com/user-attachments/assets/6d4ee558-0d39-4e98-8c00-1e19082a3fb3" />
+<img width="412" height="545" alt="image" src="https://github.com/user-attachments/assets/af49e86c-efd5-49fa-9459-3cc6203a2b95" />
